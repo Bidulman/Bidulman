@@ -1,7 +1,7 @@
-## Welcome 👋
+## 👋 Heya !
 
 ### 🙂 About me
-I'm Bidulman ! I'm a French student (High School), I don't speak English very well but I try to improve myself... 😇
+I'm Bidulman, a French student (High School). 😇
 
 ### ❤️ I looove
 - Computers
@@ -9,14 +9,13 @@ I'm Bidulman ! I'm a French student (High School), I don't speak English very we
 - Learning
 
 ### 👨‍💻 And...
-- I work a lot with Python
-- I sometimes use Java
+- I use Python a lot
+- I use Java too
 - I'd like to learn other languages
-- I'm impatient 😢
 
 ### ⚡ My plans
-- Learn, learn, and program
-- Code my imagination !
-- Hmm... Find good ideas
+- Program a little
+- Program a lot
+- PROGRAM SO MUCH
 
 And that's all for me, bye ! 🚪
